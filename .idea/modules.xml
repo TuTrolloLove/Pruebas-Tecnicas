@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Pruebas técnicas.iml" filepath="$PROJECT_DIR$/.idea/Pruebas técnicas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reto-1-Sumar-Dos/Reto-1-Sumar-Dos.iml" filepath="$PROJECT_DIR$/Reto-1-Sumar-Dos/Reto-1-Sumar-Dos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reto-2-Palindromos/Reto-2-Palindromos.iml" filepath="$PROJECT_DIR$/Reto-2-Palindromos/Reto-2-Palindromos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reto-3-Contar-palabras-frase/Reto-3-Contar-palabras-frase.iml" filepath="$PROJECT_DIR$/Reto-3-Contar-palabras-frase/Reto-3-Contar-palabras-frase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reto-4-Inventir-String-Sin-Metodos-Java/Reto-4-Inventir-String-Sin-Metodos-Java.iml" filepath="$PROJECT_DIR$/Reto-4-Inventir-String-Sin-Metodos-Java/Reto-4-Inventir-String-Sin-Metodos-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reto-5-Numeros-Romanos-Decimal/Reto-5-Numeros-Romanos-Decimal.iml" filepath="$PROJECT_DIR$/Reto-5-Numeros-Romanos-Decimal/Reto-5-Numeros-Romanos-Decimal.iml" />
+    </modules>
+  </component>
+</project>
